@@ -1,0 +1,8 @@
+{
+  "author": "web server team",
+  "name": "nodejs_mi1",
+  "version": "0.1.0",
+  "dependencies": {
+    "iniparser": "1.0.x"
+  }
+}
